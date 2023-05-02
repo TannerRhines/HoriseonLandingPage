@@ -9,7 +9,7 @@ this is a Horiseon Landing page that has been reorganized and consolidated by Ta
 
 -Currently not ready for mobile viewing 
 
--To view, please visit 
+-To view, please visit https://tannerrhines.github.io/HoriseonLandingPage/
 
 
 
